@@ -1,0 +1,19 @@
+
+div {
+
+    margin: 50px;
+    padding: 50px;
+
+}
+
+#badButton {
+
+    background-color: teal;
+    color: white;
+}
+
+#badButton button {
+    background-color: transparent;
+    border: 0px;
+    color: white;
+}

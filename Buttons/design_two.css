@@ -1,0 +1,27 @@
+
+div {
+
+    margin: 50px;
+    padding: 50px;
+}
+
+/* this is a more modern button design where there is no distinct border,
+ but just a flat color background */
+ #design2 {
+
+    background-color: #D9D9D9;
+    color: white;
+    font-family: "Century Gothic", sans-serif;
+ 
+}
+
+#design2 button {
+
+    background-color: #4484CE;
+    border: 0px;
+    color: white;
+    padding: 10px 50px;
+    font-family: Impact, sans-serif;
+    font-size: 1.3em;
+
+}

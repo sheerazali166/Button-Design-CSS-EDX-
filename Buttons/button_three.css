@@ -1,0 +1,25 @@
+
+div {
+
+    margin: 50px;
+    padding: 50px;
+}
+
+/* this is a big graphic button that uses border radius to give it a rounded shape*/
+#design3 {
+
+    font-family: Impact, sans-serif;
+    font-size: 2em;
+}
+
+#design3 button {
+
+    font-family: Impact, sans-serif;
+    font-weight: 100;
+    background-color: white;
+    border: 7px #EC576B solid;
+    padding: 15px 40px;
+    border-radius: 20px;
+    font-size: 0.8em;
+
+}
